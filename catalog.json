@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-18T23:52:41Z",
+  "entries": [
+    {
+      "identifier": "call-of-the-wild",
+      "title": "The Call of the Wild",
+      "author": "Jack London",
+      "sourceCredit": "Standard Ebooks (CC0)",
+      "free": true,
+      "sittingCount": 16,
+      "byteSize": 204150,
+      "sha256Hex": "ded5a57d010c89efc705a49eb61ab0a84449a838f4f62543838a842bcead12f2",
+      "url": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.1.0-books-batch-1/call-of-the-wild.book.json",
+      "minAppVersion": "1.1",
+      "excludedStorefronts": []
+    },
+    {
+      "identifier": "carmilla",
+      "title": "Carmilla",
+      "author": "J. Sheridan Le Fanu",
+      "sourceCredit": "Standard Ebooks (CC0)",
+      "free": false,
+      "sittingCount": 7,
+      "byteSize": 182517,
+      "sha256Hex": "e668f5372fa3622015450558aa6d54cc5f07751c571c1ba88d7ac18c5ee91cb1",
+      "url": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.1.0-books-batch-1/carmilla.book.json",
+      "minAppVersion": "1.1",
+      "excludedStorefronts": []
+    },
+    {
+      "identifier": "emma",
+      "title": "Emma",
+      "author": "Jane Austen",
+      "sourceCredit": "Standard Ebooks (CC0)",
+      "free": false,
+      "sittingCount": 26,
+      "byteSize": 962897,
+      "sha256Hex": "f52aee2a78fd1c59f18a910d3e74879755d7d17b08d20ea176fab02f9e961091",
+      "url": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.1.0-books-batch-1/emma.book.json",
+      "minAppVersion": "1.1",
+      "excludedStorefronts": []
+    },
+    {
+      "identifier": "importance-of-being-earnest",
+      "title": "The Importance of Being Earnest",
+      "author": "Oscar Wilde",
+      "sourceCredit": "Standard Ebooks (CC0)",
+      "free": false,
+      "sittingCount": 8,
+      "byteSize": 145653,
+      "sha256Hex": "dcd108a94c589413cc811c85c7522f6297ddbdc78fe070eba36b82740d6ea2b4",
+      "url": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.1.0-books-batch-1/importance-of-being-earnest.book.json",
+      "minAppVersion": "1.1",
+      "excludedStorefronts": []
+    },
+    {
+      "identifier": "romeo-and-juliet",
+      "title": "Romeo and Juliet",
+      "author": "William Shakespeare",
+      "sourceCredit": "Standard Ebooks (CC0)",
+      "free": false,
+      "sittingCount": 4,
+      "byteSize": 171510,
+      "sha256Hex": "2d7a7304bea7c2dedf78e19c138aecb1724490e9fb5bca482ebf54321d6b4488",
+      "url": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.1.0-books-batch-1/romeo-and-juliet.book.json",
+      "minAppVersion": "1.1",
+      "excludedStorefronts": []
+    },
+    {
+      "identifier": "secret-garden",
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "sourceCredit": "Standard Ebooks (CC0)",
+      "free": false,
+      "sittingCount": 14,
+      "byteSize": 497220,
+      "sha256Hex": "c0566428f0d96d1e88c7d51de826b704b67bd6569461c230b647c01e67801a64",
+      "url": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.1.0-books-batch-1/secret-garden.book.json",
+      "minAppVersion": "1.1",
+      "excludedStorefronts": []
+    },
+    {
+      "identifier": "study-in-scarlet",
+      "title": "A Study in Scarlet",
+      "author": "Arthur Conan Doyle",
+      "sourceCredit": "Standard Ebooks (CC0)",
+      "free": false,
+      "sittingCount": 7,
+      "byteSize": 270632,
+      "sha256Hex": "51567896de21d1a7d955eafbcc0301d05a8d6dc18ce10c7db9d9aeb14c4f1e4b",
+      "url": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.1.0-books-batch-1/study-in-scarlet.book.json",
+      "minAppVersion": "1.1",
+      "excludedStorefronts": []
+    },
+    {
+      "identifier": "through-the-looking-glass",
+      "title": "Through the Looking-Glass",
+      "author": "Lewis Carroll",
+      "sourceCredit": "Standard Ebooks (CC0)",
+      "free": false,
+      "sittingCount": 5,
+      "byteSize": 202569,
+      "sha256Hex": "e349519bf265ce716733a9d06492a2c02037fa42c0dad42ff94349b2008ea08d",
+      "url": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.1.0-books-batch-1/through-the-looking-glass.book.json",
+      "minAppVersion": "1.1",
+      "excludedStorefronts": []
+    },
+    {
+      "identifier": "wizard-of-oz",
+      "title": "The Wonderful Wizard of Oz",
+      "author": "L. Frank Baum",
+      "sourceCredit": "Standard Ebooks (CC0)",
+      "free": true,
+      "sittingCount": 21,
+      "byteSize": 252399,
+      "sha256Hex": "ff7de6dc3bcc6eab2e31337b87fd9d55eb98a3caa1c5963697b63a9acbcc665f",
+      "url": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.1.0-books-batch-1/wizard-of-oz.book.json",
+      "minAppVersion": "1.1",
+      "excludedStorefronts": []
+    }
+  ]
+}
