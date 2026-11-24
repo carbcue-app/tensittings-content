@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T12:24:58Z",
+  "generatedAt": "2026-11-24T13:17:28Z",
   "entries": [
     {
       "identifier": "call-of-the-wild",
@@ -19,6 +19,9 @@
       },
       "localizedUrls": {
         "de": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.2.0-books-de/call-of-the-wild.de.book.json"
+      },
+      "localizedSha256": {
+        "de": "89e224e152965d5aae3a1c8ad1196567bc089046c34c6a87f54efd1405cff6d3"
       }
     },
     {
@@ -38,6 +41,9 @@
       },
       "localizedUrls": {
         "de": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.2.0-books-de/carmilla.de.book.json"
+      },
+      "localizedSha256": {
+        "de": "b74694b09f16c65a88c3c319a4648b4ad019f02b96b234aa5d0d6400bc5f474b"
       }
     },
     {
@@ -57,6 +63,9 @@
       },
       "localizedUrls": {
         "de": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.2.0-books-de/emma.de.book.json"
+      },
+      "localizedSha256": {
+        "de": "ae557d512d0667f54c836d6302c17e795d9b4a70179a0dcbe900bdca4b26fe40"
       }
     },
     {
@@ -76,6 +85,9 @@
       },
       "localizedUrls": {
         "de": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.2.0-books-de/importance-of-being-earnest.de.book.json"
+      },
+      "localizedSha256": {
+        "de": "e07af2e49e96d5719d3157d5d1947df0a50ba8ae654dc011b3f1c60cc72310b5"
       }
     },
     {
@@ -95,6 +107,9 @@
       },
       "localizedUrls": {
         "de": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.2.0-books-de/romeo-and-juliet.de.book.json"
+      },
+      "localizedSha256": {
+        "de": "b990402349484374f0d48efe9291e6b46aa1c1244b41d587916cce71615f22fa"
       }
     },
     {
@@ -114,6 +129,9 @@
       },
       "localizedUrls": {
         "de": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.2.0-books-de/secret-garden.de.book.json"
+      },
+      "localizedSha256": {
+        "de": "c9911d7a00c580c70fec5cb7264a2b0dc7b801d31131787c3c69013694a09188"
       }
     },
     {
@@ -133,6 +151,9 @@
       },
       "localizedUrls": {
         "de": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.2.0-books-de/study-in-scarlet.de.book.json"
+      },
+      "localizedSha256": {
+        "de": "ac0b667f6bf38db14ae703af5d8e4f01bf00aabd8a1a5d65cc3e3c27be8940f1"
       }
     },
     {
@@ -152,6 +173,9 @@
       },
       "localizedUrls": {
         "de": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.2.0-books-de/through-the-looking-glass.de.book.json"
+      },
+      "localizedSha256": {
+        "de": "c9511404447c9994ed7a911ee9374e584f0c84b8ff5934b537b32cab82b52ad8"
       }
     },
     {
@@ -171,6 +195,9 @@
       },
       "localizedUrls": {
         "de": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.2.0-books-de/wizard-of-oz.de.book.json"
+      },
+      "localizedSha256": {
+        "de": "35addadade3d32312ad04f626e21b7532d9d59e7374abdb78014dcdb90b6e2e4"
       }
     }
   ]
