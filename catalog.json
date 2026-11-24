@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T23:52:41Z",
+  "generatedAt": "2026-11-24T12:24:58Z",
   "entries": [
     {
       "identifier": "call-of-the-wild",
@@ -13,7 +13,13 @@
       "sha256Hex": "ded5a57d010c89efc705a49eb61ab0a84449a838f4f62543838a842bcead12f2",
       "url": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.1.0-books-batch-1/call-of-the-wild.book.json",
       "minAppVersion": "1.1",
-      "excludedStorefronts": []
+      "excludedStorefronts": [],
+      "localizedTitles": {
+        "de": "Ruf der Wildnis"
+      },
+      "localizedUrls": {
+        "de": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.2.0-books-de/call-of-the-wild.de.book.json"
+      }
     },
     {
       "identifier": "carmilla",
@@ -26,7 +32,13 @@
       "sha256Hex": "e668f5372fa3622015450558aa6d54cc5f07751c571c1ba88d7ac18c5ee91cb1",
       "url": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.1.0-books-batch-1/carmilla.book.json",
       "minAppVersion": "1.1",
-      "excludedStorefronts": []
+      "excludedStorefronts": [],
+      "localizedTitles": {
+        "de": "Carmilla"
+      },
+      "localizedUrls": {
+        "de": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.2.0-books-de/carmilla.de.book.json"
+      }
     },
     {
       "identifier": "emma",
@@ -39,7 +51,13 @@
       "sha256Hex": "f52aee2a78fd1c59f18a910d3e74879755d7d17b08d20ea176fab02f9e961091",
       "url": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.1.0-books-batch-1/emma.book.json",
       "minAppVersion": "1.1",
-      "excludedStorefronts": []
+      "excludedStorefronts": [],
+      "localizedTitles": {
+        "de": "Emma"
+      },
+      "localizedUrls": {
+        "de": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.2.0-books-de/emma.de.book.json"
+      }
     },
     {
       "identifier": "importance-of-being-earnest",
@@ -52,7 +70,13 @@
       "sha256Hex": "dcd108a94c589413cc811c85c7522f6297ddbdc78fe070eba36b82740d6ea2b4",
       "url": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.1.0-books-batch-1/importance-of-being-earnest.book.json",
       "minAppVersion": "1.1",
-      "excludedStorefronts": []
+      "excludedStorefronts": [],
+      "localizedTitles": {
+        "de": "Ernst sein ist alles"
+      },
+      "localizedUrls": {
+        "de": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.2.0-books-de/importance-of-being-earnest.de.book.json"
+      }
     },
     {
       "identifier": "romeo-and-juliet",
@@ -65,7 +89,13 @@
       "sha256Hex": "2d7a7304bea7c2dedf78e19c138aecb1724490e9fb5bca482ebf54321d6b4488",
       "url": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.1.0-books-batch-1/romeo-and-juliet.book.json",
       "minAppVersion": "1.1",
-      "excludedStorefronts": []
+      "excludedStorefronts": [],
+      "localizedTitles": {
+        "de": "Romeo und Julia"
+      },
+      "localizedUrls": {
+        "de": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.2.0-books-de/romeo-and-juliet.de.book.json"
+      }
     },
     {
       "identifier": "secret-garden",
@@ -78,7 +108,13 @@
       "sha256Hex": "c0566428f0d96d1e88c7d51de826b704b67bd6569461c230b647c01e67801a64",
       "url": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.1.0-books-batch-1/secret-garden.book.json",
       "minAppVersion": "1.1",
-      "excludedStorefronts": []
+      "excludedStorefronts": [],
+      "localizedTitles": {
+        "de": "Der geheime Garten"
+      },
+      "localizedUrls": {
+        "de": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.2.0-books-de/secret-garden.de.book.json"
+      }
     },
     {
       "identifier": "study-in-scarlet",
@@ -91,7 +127,13 @@
       "sha256Hex": "51567896de21d1a7d955eafbcc0301d05a8d6dc18ce10c7db9d9aeb14c4f1e4b",
       "url": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.1.0-books-batch-1/study-in-scarlet.book.json",
       "minAppVersion": "1.1",
-      "excludedStorefronts": []
+      "excludedStorefronts": [],
+      "localizedTitles": {
+        "de": "Eine Studie in Scharlachrot"
+      },
+      "localizedUrls": {
+        "de": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.2.0-books-de/study-in-scarlet.de.book.json"
+      }
     },
     {
       "identifier": "through-the-looking-glass",
@@ -104,7 +146,13 @@
       "sha256Hex": "e349519bf265ce716733a9d06492a2c02037fa42c0dad42ff94349b2008ea08d",
       "url": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.1.0-books-batch-1/through-the-looking-glass.book.json",
       "minAppVersion": "1.1",
-      "excludedStorefronts": []
+      "excludedStorefronts": [],
+      "localizedTitles": {
+        "de": "Alice hinter den Spiegeln"
+      },
+      "localizedUrls": {
+        "de": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.2.0-books-de/through-the-looking-glass.de.book.json"
+      }
     },
     {
       "identifier": "wizard-of-oz",
@@ -117,7 +165,13 @@
       "sha256Hex": "ff7de6dc3bcc6eab2e31337b87fd9d55eb98a3caa1c5963697b63a9acbcc665f",
       "url": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.1.0-books-batch-1/wizard-of-oz.book.json",
       "minAppVersion": "1.1",
-      "excludedStorefronts": []
+      "excludedStorefronts": [],
+      "localizedTitles": {
+        "de": "Der Zauberer von Oz"
+      },
+      "localizedUrls": {
+        "de": "https://github.com/carbcue-app/tensittings-content/releases/download/v1.2.0-books-de/wizard-of-oz.de.book.json"
+      }
     }
   ]
 }
